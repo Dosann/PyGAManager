@@ -1,0 +1,7 @@
+dbname=grabgithub
+host=590ab5bb84735.sh.cdb.myqcloud.com
+port=14803
+user=cdb_outerroot
+passwd=Aa123456
+charset=utf8
+线程数=10
